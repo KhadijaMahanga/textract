@@ -19,4 +19,4 @@ This is poetry script, to run it you will need the following
 - Clone the repository and navigate to project root
 - Activate your poetry shell by running `poetry shell`
 - Run `poetry install` to install necessary packages as listed on pyproject.toml file
-- Run script
+- Run script with `poetry run extract`
