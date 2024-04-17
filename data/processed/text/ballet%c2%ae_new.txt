@@ -1,0 +1,635 @@
+Gebrauchsanleitung für Ballet®
+Spritzmittel gegen pilzliche Krankheiten in Winter- und Sommerraps, Weizen, 
+Gerste und Roggen sowie in anderen Ackerbaukulturen
+
++-----------------------+--------------------------------------+
+| Produkt:              | Ballet®                              |
++-----------------------+--------------------------------------+
+| Zulassungsnummer:     | 034028-62                            |
++-----------------------+--------------------------------------+
+| Zulassungsinhaber:    | Bayer CropScience Deutschland GmbH   |
++-----------------------+--------------------------------------+
+| Formulierungstyp,     | EW (Emulsion, Öl in Wasser); 250 g/l |
+| Wirkstoff und Gehalt: | Tebuconazol (25,8 Gew.-%)            |
++-----------------------+--------------------------------------+
+| Wirkungsbereich:      | Fungizid                             |
++-----------------------+--------------------------------------+
+| Wirkmechanismus:      | Tebuconazol: FRAC-Gruppe 3 (G1)      |
++-----------------------+--------------------------------------+
+| Einsatzgebiet:        | Ackerbau                             |
++-----------------------+--------------------------------------+
+| Anwenderkategorie:    | beruflich                            |
++-----------------------+--------------------------------------+
+
++--------+---+----------+
+| GRUPPE | 3 | FUNGIZID |
++--------+---+----------+
+Kennzeichnung zum Schutz für die menschliche Gesundheit und 
+für die Umwelt
+Signalwort: Gefahr
+
++-----------------------------------------+----------------------------------+
+| Formulierungstyp, Wirkstoff und Gehalt: | EW (Emulsion, Öl in Wasser); 250 |
+|                                         | g/l Tebuconazol (25,8 Gew.-%)    |
++-----------------------------------------+----------------------------------+
+
++----------------------------------+-----------------------+
+| Kennzeichnungspflichtige Stoffe: | N,N-Dimethyldecanamid |
++----------------------------------+-----------------------+
+H302+H332: Gesundheitsschädlich bei Verschlucken oder Einatmen. 
+H318: Verursacht schwere Augenschäden.
+H335: Kann die Atemwege reizen.
+H361d: Kann vermutlich das Kind im Mutterleib schädigen.
+H410: Sehr giftig für Wasserorganismen, mit langfristiger Wirkung.
+EUH401: Zur Vermeidung von Risiken für Mensch und Umwelt die Gebrauchsanleitung 
+einhalten.
+P280: Schutzhandschuhe/Schutzkleidung/Augenschutz/Gesichtsschutz tragen.
+P305+P351+P338: BEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam 
+mit Wasser spülen. Eventuell vorhandene Kontaktlinsen nach Möglichkeit entfernen. 
+Weiter spülen.
+P310: Sofort GIFTINFORMATIONSZENTRUM/Arzt anrufen.
+P391: Verschüttete Mengen aufnehmen.
+P501: Inhalt/Behälter in Übereinstimmung mit örtlichen Vorschriften entsorgen. 
+SP 1: Mittel und/oder dessen Behälter nicht in Gewässer gelangen lassen. 
+(Ausbringungsgeräte nicht in unmittelbarer Nähe von Oberflächengewässern 
+reinigen./Indirekte Einträge über Hof- und Straßenabläufe verhindern.)
+SPo 5: Vor dem Wiederbetreten ist das Gewächshaus gründlich zu lüften.
+Leere Behälter dürfen nicht wiederverwendet werden!
+
++------+---------------------+
+| UFI: | NX80-T0JA-G00G-MDP3 |
++------+---------------------+
+Charge und Herstelldatum: produktionsbedingt an anderer Stelle
+Füllhöhe technisch bedingt
+Erste-Hilfe-Maßnahmen
+Hinweise für Ersthelfer: Achten Sie auf Selbstschutz! Bei Gefahr der Bewusstlosigkeit,
+lagern und transportieren Sie die Person in stabiler Seitenlage. Entfernen Sie 
+verunreinigte Kleidung sofort!
+Nach Einatmen: An die frische Luft bringen. Betroffenen warm und ruhig lagern. Sofort 
+einen Arzt oder ein Behandlungszentrum für Vergiftungsfälle verständigen.
+Nach Hautkontakt: Mit viel Wasser und Seife abwaschen. Bei anhaltenden 
+Beschwerden einen Arzt aufsuchen.
+Nach Augenkontakt: Sofort mit viel Wasser mindestens 15 Minuten lang ausspülen, 
+auch unter den Augenlidern. Falls Kontaktlinsen vorhanden, diese nach den ersten 5 
+Minuten entfernen, dann das Auge weiter spülen. Sofort einen Arzt oder ein 
+Behandlungszentrum für Vergiftungsfälle verständigen.
+Nach Verschlucken: Mund ausspülen. KEIN Erbrechen herbeiführen. Sofort einen Arzt
+oder ein Behandlungszentrum für Vergiftungsfälle verständigen.
+Telefonnummern
+Im Falle einer Vergiftung/bei Unwohlsein kontaktieren Sie die Giftnotrufzentrale 
+des jeweiligen Bundeslandes, um sofortige Gegenmaßnahmen einleiten zu 
+können. Halten Sie die Gebrauchsanleitung oder das Sicherheitsdatenblatt von 
+Ballet bereit. Suchen Sie zusätzlich einen Arzt auf/oder rufen Sie einen Notarzt! 
++49 (0)214/30-20220 - Vergiftung Mensch/Tier (24 Std./7 Tage)
+Hinweise für den Arzt / die Ärztin
+Symptomatische Behandlung. Wenn eine größere Menge aufgenommen wird, sollte 
+eine Magenspülung nur innerhalb der ersten beiden Stunden in Betracht gezogen 
+werden. Die Applikation von Aktivkohle und Natriumsulfat wird aber immer empfohlen. 
+Ein spezifisches Antidot ist nicht bekannt.
+Sie sind gemäß § 16 e Chemikaliengesetz verpflichtet, den Vorfall an das 
+Bundesinstitut für Risikobewertung (BfR) zu melden, das für die Dokumentation und 
+Bewertung von Vergiftungsfällen in Deutschland zuständig ist.
+Von der Zulassungsbehörde festgesetzte 
+Anwendungsbestimmungen
+1. Arbeits- und Gesundheitsschutz
+1.1 Anwendungsbestimmungen für das Mittel
+Keine
+1.2 Anwendungsbestimmungen für einzelne Anwendungen
+Keine
+1.3 Kennzeichnungsauflagen und Hinweise für das Mittel
+Art und Handhabung der persönlichen Schutzausrüstung
+Vor Gebrauch der Schutzausrüstung ist diese auf einwandfreien Zustand hin zu 
+überprüfen. Für die Haltbarkeit, Handhabung und Pflege der Schutzausrüstung sind die 
+Angaben des Herstellers zu beachten.
+(SB001) Jeden unnötigen Kontakt mit dem Mittel vermeiden. Missbrauch kann zu 
+Gesundheitsschäden führen.
+(SB110) Die Richtlinie für die Anforderungen an die persönliche Schutzausrüstung im 
+Pflanzenschutz "Persönliche Schutzausrüstung beim Umgang mit 
+Pflanzenschutzmitteln" des Bundesamtes für Verbraucherschutz und 
+Lebensmittelsicherheit ist zu beachten.
+(SB199) Wenn das Produkt mittels an den Traktor angebauten, gezogenen oder 
+selbstfahrenden Anwendungsgeräten ausgebracht wird, dann sind nur Fahrzeuge, die 
+mit geschlossenen Überdruckkabinen (z. B. Kabinenkategorie 3, wenn keine 
+Atemschutzgeräte oder partikelfiltrierenden Masken benötigt werden oder 
+Kabinenkategorie 4, wenn gasdichter Atemschutz erforderlich ist (gemäß EN 15695-1 
+und -2)) ausgestattet sind, geeignet, um die persönliche Schutzausrüstung bei der 
+Ausbringung zu ersetzen. Während aller anderen Tätigkeiten außerhalb der Kabine ist 
+die vorgeschriebene persönliche Schutzausrüstung zu tragen. Um die Kontamination 
+des Kabineninnenraumes zu vermeiden, ist es nicht erlaubt, die Kabine mit 
+kontaminierter persönlicher Schutzausrüstung zu betreten (diese sollte in einer 
+entsprechenden Vorrichtung aufbewahrt werden). Kontaminierte Handschuhe sollten 
+vor dem Ausziehen abgewaschen werden, beziehungsweise sollten die Hände vor 
+Wiederbetreten der Kabine mit klarem Wasser gereinigt werden.
+(SE110) Dicht abschließende Schutzbrille tragen beim Umgang mit dem unverdünnten 
+Mittel.
+(SF245-01) Behandelte Flächen/Kulturen erst nach dem Abtrocknen des Spritzbelages 
+wieder betreten.
+(SS110) Universal-Schutzhandschuhe (Pflanzenschutz) tragen beim Umgang mit dem 
+unverdünnten Mittel.
+(SS2101) Schutzanzug gegen Pflanzenschutzmittel und festes Schuhwerk (z.B. 
+Gummistiefel) tragen beim Umgang mit dem unverdünnten Mittel.
+(SS2202) Schutzanzug gegen Pflanzenschutzmittel und festes Schuhwerk (z.B. 
+Gummistiefel) tragen bei der Ausbringung/Handhabung des anwendungsfertigen 
+Mittels.
+(SS610) Gummischürze tragen beim Umgang mit dem unverdünnten Mittel.
+Ist ärztlicher Rat erforderlich, Verpackung oder Kennzeichnungsetikett bereithalten.
+Für Kinder unzugänglich aufbewahren.
+Beim Umgang mit dem Produkt nicht essen, trinken oder rauchen.
+Handschuhe vor dem Ausziehen waschen.
+1.4 Kennzeichnungsauflagen und Hinweise für einzelne Anwendungen 
+Keine
+2. Schutz des Naturhaushalts
+2.1 Anwendungsbestimmungen für das Mittel
+(NW468) Anwendungsflüssigkeiten und deren Reste, Mittel und dessen Reste, entleerte
+Behältnisse oder Packungen sowie Reinigungs- und Spülflüssigkeiten nicht in 
+Gewässer gelangen lassen. Dies gilt auch für indirekte Einträge über die Kanalisation, 
+Hof- und Straßenabläufe sowie Regen- und Abwasserkanäle.
+2.2 Anwendungsbestimmungen für einzelne Anwendungen
+(NT101) Die Anwendung des Mittels muss in einer Breite von mindestens 20 m zu 
+angrenzenden Flächen (ausgenommen landwirtschaftlich oder gärtnerisch genutzte 
+Flächen, Straßen, Wege und Plätze) mit einem verlustmindernden Gerät erfolgen, das 
+in das Verzeichnis "Verlustmindernde Geräte" vom 14. Oktober 1993 (Bundesanzeiger 
+Nr. 205, S. 9780) in der jeweils geltenden Fassung, mindestens in die 
+Abdriftminderungsklasse 50 % eingetragen ist. Bei der Anwendung des Mittels ist der 
+Einsatz verlustmindernder Technik nicht erforderlich, wenn die Anwendung mit 
+tragbaren Pflanzenschutzgeräten erfolgt oder angrenzende Flächen (z. B. Feldraine, 
+Hecken, Gehölzinseln) weniger als 3 m breit sind oder die Anwendung des Mittels in 
+einem Gebiet erfolgt, das von der Biologischen Bundesanstalt im "Verzeichnis der 
+regionalisierten Kleinstrukturanteile" vom 7. Februar 2002 (Bundesanzeiger Nr. 70a 
+vom 13. April 2002) in der jeweils geltenden Fassung, als Agrarlandschaft mit einem 
+ausreichenden Anteil an Kleinstrukturen ausgewiesen worden ist.
+(NW605-1) Die Anwendung des Mittels auf Flächen in Nachbarschaft von 
+Oberflächengewässern - ausgenommen nur gelegentlich wasserführende, aber 
+einschließlich periodisch wasserführender Oberflächengewässer - muss mit einem 
+Gerät erfolgen, das in das Verzeichnis "Verlustmindernde Geräte" vom 14. Oktober 
+1993 (Bundesanzeiger Nr. 205, S. 9780) in der jeweils geltenden Fassung eingetragen 
+ist. Dabei sind, in Abhängigkeit von den unten aufgeführten Abdriftminderungsklassen 
+der verwendeten Geräte, die im Folgenden genannten Abstände zu 
+Oberflächengewässern einzuhalten. Für die mit "*" gekennzeichneten 
+Abdriftminderungsklassen ist, neben dem gemäß Länderrecht verbindlich 
+vorgegebenen Mindestabstand zu Oberflächengewässern, das Verbot der Anwendung 
+in oder unmittelbar an Gewässern in jedem Fall zu beachten. 
+(NW606) Ein Verzicht auf den Einsatz verlustmindernder Technik ist nur möglich, wenn 
+bei der Anwendung des Mittels mindestens unten genannter Abstand zu 
+Oberflächengewässern - ausgenommen nur gelegentlich wasserführende, aber 
+einschließlich periodisch wasserführender Oberflächengewässer - eingehalten wird. 
+Zuwiderhandlungen können mit einem Bußgeld bis zu einer Höhe von 50.000 Euro 
+geahndet werden. 
+(NW701) Zwischen behandelten Flächen mit einer Hangneigung von über 2 % und 
+Oberflächengewässern - ausgenommen nur gelegentlich wasserführender, aber 
+einschließlich periodisch wasserführender - muss ein mit einer geschlossenen 
+Pflanzendecke bewachsener Randstreifen vorhanden sein. Dessen Schutzfunktion darf 
+durch den Einsatz von Arbeitsgeräten nicht beeinträchtigt werden. Er muss eine 
+Mindestbreite von 10 m haben. Dieser Randstreifen ist nicht erforderlich, wenn: - 
+ausreichende Auffangsysteme für das abgeschwemmte Wasser bzw. den 
+abgeschwemmten Boden vorhanden sind, die nicht in ein Oberflächengewässer 
+münden, bzw. mit der Kanalisation verbunden sind oder - die Anwendung im Mulch- 
+oder Direktsaatverfahren erfolgt.
+2.3 Kennzeichnungsauflagen und Hinweise für das Mittel
+(NB6641) Das Mittel wird bis zu der höchsten durch die Zulassung festgelegten 
+Aufwandmenge oder Anwendungskonzentration, falls eine Aufwandmenge nicht 
+vorgesehen ist, als nicht bienengefährlich eingestuft (B4).
+(NN160) Das Mittel wird als nichtschädigend für Populationen der Art Aleochara 
+bilineata (Kurzflügelkäfer) eingestuft.
+(NN161) Das Mittel wird als nichtschädigend für Populationen der Art Coccinella 
+septempunctata (Siebenpunkt-Marienkäfer) eingestuft.
+(NN165) Das Mittel wird als nichtschädigend für Populationen der Art Poecilus cupreus 
+(Laufkäfer) eingestuft.
+(NN1842) Das Mittel wird als nichtschädigend für Populationen der Art Aphidius 
+rhopalosiphi (Brackwespe) eingestuft.
+(NN290) Das Mittel wird als schwachschädigend für Populationen der Art Syrphus 
+corollae (Schwebfliege) eingestuft.
+(NW262) Das Mittel ist giftig für Algen.
+(NW264) Das Mittel ist giftig für Fische und Fischnährtiere.
+(NW265) Das Mittel ist giftig für höhere Wasserpflanzen.
+2.4 Kennzeichnungsauflagen und Hinweise für einzelne Anwendungen
+Keine
+3. Anwendung, Wirksamkeit und Kulturverträglichkeit
+Pflanzenverträglichkeit
+Nach unseren Erfahrungen wird Ballet in der empfohlenen Aufwandmenge von allen 
+Weizen- (ausgenommen Durum-Weizen), Gersten-, Roggen- und Raps-Sorten gut 
+vertragen. Spritzungen unter extremen Witterungsbedingungen wie z.B. trockene Hitze 
+(geringe Luftfeuchtigkeit) können an Weizen je nach Sorte vorübergehende 
+Blattaufhellungen zur Folge haben, die jedoch ohne Einfluss auf die Ertragsleistung 
+sind. Sortentypische Aufhellungen und Verbräunungen der Blattspitzen können durch 
+Ballet, ebenso wie durch einige andere Fungizide, verstärkt werden. Die Zumischung 
+von Ammonnitrat-Harnstoff-Lösung oder Harnstoff zur Spritzbrühe kann den Effekt der 
+Blattaufhellung zusätzlich verstärken.
+3.1 Kennzeichnungsauflagen und Hinweise für das Mittel
+Keine
+3.2 Kennzeichnungsauflagen und Hinweise für einzelne Anwendungen
+(WA721) Anwendung insbesondere zur Reduktion der Mykotoxinbelastung durch 
+Bekämpfung der Ährenfusariosen an Getreide in befallsgefährdeten Beständen 
+aufgrund ungünstiger Vorfrucht, Bodenbearbeitung, Sortenwahl und Witterung.
+3.3 Wirkungsweise
+Ballet ist ein breit wirkendes Fungizid (Ergosterol-Biosynthese-Hemmer) mit 
+systemischen Eigenschaften gegen pilzliche Krankheiten in Getreide, Raps und 
+anderen Ackerbaukulturen. Es wirkt sowohl vorbeugend (protektiv) als auch 
+befallsstoppend (kurativ bzw. eradikativ) und hat eine Wirkungsdauer von mehreren 
+Wochen.
+Tebuconazol: Wirkungsmechanismus (FRAC-Gruppe G1 bzw. FRAC Code 3)
+Die neue Klasseneinteilung des Wirkungsmechanismus wird auf der Vorderseite des 
+Etiketts angeführt.
+Sie dürfen Pflanzenschutzmittel (gemäß § 12 Pflanzenschutzgesetz) nur so anwenden, 
+wie mit der behördlichen Zulassung festgesetzt und in der Gebrauchsanleitung 
+beschrieben.
+In der Behandlungsfolge sollten Sie möglichst Pflanzenschutzmittel mit 
+unterschiedlichen Wirkmechanismen einsetzen, um einer Resistenzbildung 
+entgegenzuwirken – dies gilt auch für Tankmischungen.
+4. Von der Zulassungsbehörde festgesetzte Anwendungsgebiete
+
++--------------------------------------------------------+---------------------+
+| Schadorganismus/Zweckbestimmung                        | Pflanzen/-          |
+|                                                        | erzeugnisse/Objekte |
++--------------------------------------------------------+---------------------+
+| Wurzelhals- und Stängelfäule (Leptosphaeria maculans), | Winterraps          |
+| Kohlschwärze (Alternaria brassicae),                   |                     |
+| Weißstängeligkeit (Sclerotinia sclerotiorum),          |                     |
+| Standfestigkeit,                                       |                     |
+| Winterfestigkeit                                       |                     |
++--------------------------------------------------------+---------------------+
+| Wurzelhals- und Stängelfäule (Leptosphaeria maculans), | Sommerraps          |
+| Kohlschwärze (Alternaria brassicae),                   |                     |
+| Weißstängeligkeit (Sclerotinia sclerotiorum),          |                     |
+| Standfestigkeit                                        |                     |
++--------------------------------------------------------+---------------------+
+| Echter Mehltau (Erysiphe graminis),                    | Weizen              |
+| Braunrost (Puccinia recondita)                         |                     |
++--------------------------------------------------------+---------------------+
+| Fusarium-Arten                                         | Weizen (ausg.       |
+|                                                        | Hartweizen)         |
++--------------------------------------------------------+---------------------+
+| Echter Mehltau (Erysiphe graminis),                    | Gerste              |
+| Netzfleckenkrankheit (Pyrenophora teres),              |                     |
+| Blattfleckenkrankheit (Rhynchosporium secalis),        |                     |
+| Zwergrost (Puccinia hordei)                            |                     |
++--------------------------------------------------------+---------------------+
+| Echter Mehltau (Erysiphe graminis),                    | Roggen              |
++--------------------------------------------------------+---------------------+
+
++-------------------------------------------------+------------+
+| Blattfleckenkrankheit (Rhynchosporium secalis), |            |
+| Braunrost (Puccinia recondita)                  |            |
++-------------------------------------------------+------------+
+| Botrytis fabae,                                 | Ackerbohne |
+| Ackerbohnenrost (Uromyces viciae-fabae)         |            |
++-------------------------------------------------+------------+
+4.1 Sachgerechte Anwendung
+F: Die Wartezeit ist durch die Anwendungsbedingungen und/oder die Vegetationszeit 
+abgedeckt, die zwischen Anwendung und Nutzung (z.B. Ernte) verbleibt bzw. die 
+Festsetzung einer Wartezeit in Tagen ist nicht erforderlich.
+
++----------------------------+--------------------------------------+----------------------+
+| Pflanzen/-                 | Angaben zur sachgerechten            | Anwendungs-          |
+| erzeugnisse/Objekte        | Anwendung                            | bestimmungen/        |
+| Verwendungszweck           | (Aufwandmenge,                       | Auflagen/            |
+|                            | Anwendungszeitpunkt, -technik,       | Wartezeit            |
+|                            | max. Anzahl der Anwendungen, etc.)   |                      |
++----------------------------+--------------------------------------+----------------------+
+| Schadorganismus/           |                                      |                      |
+| Zweckbestimmung            |                                      |                      |
++----------------------------+--------------------------------------+----------------------+
+| ACKERBAU                   | 1,5 l/ha in 200 - 400 l/ha Wasser    | NT101; NW605-1: 50%  |
+| Winterraps                 | BBCH 16 - 55, bei Befallsbeginn bis  | 10 m, 75% 5 m, 90% 5 |
+| Wurzelhals- und            | Mitte Oktober und kurz vor der Blüte | m; NW606: 15 m;      |
+| Stängelfäule               | spritzen                             | NW701: 10 m          |
+| (Leptosphaeria             | - in dieser Anwendung: 2             | Wartezeit: F         |
+| maculans)                  | - für die Kultur bzw. je Jahr: 2     |                      |
+| Freiland                   |                                      |                      |
+| (00-014)                   |                                      |                      |
++----------------------------+--------------------------------------+----------------------+
+| Winterraps                 | 1,5 l/ha in 200 - 400 l/ha Wasser    | NT101; NW605-1: 50%  |
+| Kohlschwärze (Alternaria   | BBCH 63 - 65, bei Infektionsgefahr   | 10 m, 75% 5 m, 90% 5 |
+| brassicae)                 | bzw. ab Warndiensthinweis spritzen   | m; NW606: 15 m;      |
+| Freiland                   | - in dieser Anwendung: 1             | NW701: 10 m          |
+| (00-015)                   | - für die Kultur bzw. je Jahr: 2     | Wartezeit: F         |
++----------------------------+--------------------------------------+----------------------+
+| Winterraps                 | 1,5 l/ha in 200 - 400 l/ha Wasser    | NT101; NW605-1: 50%  |
+| Weißstängeligkeit          | BBCH 63 - 65, bei Infektionsgefahr   | 10 m, 75% 5 m, 90% 5 |
+| (Sclerotinia sclerotiorum) | bzw. ab Warndiensthinweis spritzen   | m; NW606: 15 m;      |
+| Freiland                   | - in dieser Anwendung: 1             | NW701: 10 m          |
+| (00-016)                   | - für die Kultur bzw. je Jahr: 2     | Wartezeit: F         |
++----------------------------+--------------------------------------+----------------------+
+| Winterraps                 | - Zeitpunkt 1 (BBCH 14 - 18): 1 l/ha | NT101; NW605-1: 50%  |
+| Standfestigkeit            | in 200 - 400 l/ha Wasser             | 10 m, 75% 5 m, 90% 5 |
+| Freiland                   | - Zeitpunkt 2 (BBCH 39 - 55): 1,5    | m; NW606: 15 m;      |
+| (00-017)                   | l/ha in 200 - 400 l/ha Wasser        | NW701: 10 m          |
++----------------------------+--------------------------------------+----------------------+
+
++----------------------------+--------------------------------------+----------------------+
+|                            | Herbst und Frühjahr spritzen         | Wartezeit: F         |
+|                            | - in dieser Anwendung: 2             |                      |
+|                            | - für die Kultur bzw. je Jahr: 2     |                      |
++----------------------------+--------------------------------------+----------------------+
+| Winterraps                 | 1 l/ha in 200 - 400 l/ha Wasser      | NT101; NW605-1: 50%  |
+| Winterfestigkeit           | BBCH 14 - 18, Herbst spritzen        | 5 m, 75% 5 m, 90% *; |
+| Freiland                   | - in dieser Anwendung: 1             | NW606: 10 m; NW701:  |
+| (00-018)                   | - für die Kultur bzw. je Jahr: 2     | 10 m                 |
+|                            |                                      | Wartezeit: F         |
++----------------------------+--------------------------------------+----------------------+
+| Sommerraps                 | 1,5 l/ha in 200 - 400 l/ha Wasser    | NT101; NW605-1: 50%  |
+| Wurzelhals- und            | BBCH 30 - 59, bei Befallsbeginn      | 10 m, 75% 5 m, 90% 5 |
+| Stängelfäule               | bzw. bei Sichtbarwerden der ersten   | m; NW606: 15 m;      |
+| (Leptosphaeria             | Symptome/Schadorganismen bis         | NW701: 10 m          |
+| maculans)                  | kurz vor der Blüte spritzen          | Wartezeit: F         |
+| Freiland                   | - in dieser Anwendung: 1             |                      |
+| (00-019)                   | - für die Kultur bzw. je Jahr: 2     |                      |
++----------------------------+--------------------------------------+----------------------+
+| Sommerraps                 | 1,5 l/ha in 200 - 400 l/ha Wasser    | NT101; NW605-1: 50%  |
+| Kohlschwärze (Alternaria   | bei Vollblüte, nach Öffnung von 50 - | 10 m, 75% 5 m, 90% 5 |
+| brassicae)                 | 60 % der Blüten oder nach            | m; NW606: 15 m;      |
+| Freiland                   | Warndienstaufruf spritzen            | NW701: 10 m          |
+| (00-020)                   | - in dieser Anwendung: 1             | Wartezeit: F         |
+|                            | - für die Kultur bzw. je Jahr: 2     |                      |
++----------------------------+--------------------------------------+----------------------+
+| Sommerraps                 | 1,5 l/ha in 200 - 400 l/ha Wasser    | NT101; NW605-1: 50%  |
+| Weißstängeligkeit          | bei Vollblüte, nach Öffnung von 50 - | 10 m, 75% 5 m, 90% 5 |
+| (Sclerotinia sclerotiorum) | 60 % der Blüten oder nach            | m; NW606: 15 m;      |
+| Freiland                   | Warndienstaufruf spritzen            | NW701: 10 m          |
+| (00-021)                   | - in dieser Anwendung: 1             | Wartezeit: F         |
+|                            | - für die Kultur bzw. je Jahr: 2     |                      |
++----------------------------+--------------------------------------+----------------------+
+| Sommerraps                 | 1,5 l/ha in 200 - 400 l/ha Wasser    | NT101; NW605-1: 50%  |
+| Standfestigkeit            | BBCH 39 - 55, bis kurz vor der Blüte | 10 m, 75% 5 m, 90% 5 |
+| Freiland                   | bei Befallsbeginn bzw. bei           | m; NW606: 15 m;      |
+| (00-022)                   | Sichtbarwerden der ersten            | NW701: 10 m          |
+|                            | Symptome spritzen                    | Wartezeit: F         |
+|                            | - in dieser Anwendung: 1             |                      |
+|                            | - für die Kultur bzw. je Jahr: 2     |                      |
++----------------------------+--------------------------------------+----------------------+
+| Weizen                     | 1 l/ha in 200 - 400 l/ha Wasser      | NT101; NW605-1: 50%  |
+| Echter Mehltau (Erysiphe   | BBCH 25 - 61, ab Frühjahr bei        | 5 m, 75% 5 m, 90% *; |
++----------------------------+--------------------------------------+----------------------+
+
++--------------------------+--------------------------------------+----------------------+
+| graminis)                | Befallsbeginn bzw. bei               | NW606: 10 m; NW701:  |
+| Freiland                 | Sichtbarwerden der ersten            | 10 m                 |
+| (00-001)                 | Symptome spritzen                    | Wartezeit: F         |
+|                          | - in dieser Anwendung: 2             |                      |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
++--------------------------+--------------------------------------+----------------------+
+| Weizen                   | 1 l/ha in 200 bis 400 l/ha Wasser    | NT101; NW605-1: 50%  |
+| Braunrost (Puccinia      | BBCH 25 - 69, ab Frühjahr bei        | 5 m, 75% 5 m, 90% *; |
+| recondita)               | Befallsbeginn bzw. bei               | NW606: 10 m; NW701:  |
+| Freiland                 | Sichtbarwerden der ersten            | 10 m                 |
+| (00-002)                 | Symptome spritzen                    | Wartezeit: F         |
+|                          | - in dieser Anwendung: 2             |                      |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
++--------------------------+--------------------------------------+----------------------+
+| Weizen (ausg.            | 1 l/ha in 200 bis 400 l/ha Wasser    | NT101; NW605-1: 50%  |
+| Hartweizen)              | BBCH 61 - 69, bei Befallsgefahr      | 5 m, 75% 5 m, 90% *; |
+| Fusarium-Arten           | spritzen                             | NW606: 10 m; NW701:  |
+| (Ährenbefall,            | - in dieser Anwendung: 1             | 10 m                 |
+| Verminderung der         | - für die Kultur bzw. je Jahr: 2     | WA721                |
+| Mykotoxinbildung)        |                                      | Wartezeit: F         |
+| Freiland                 |                                      |                      |
+| (00-005)                 |                                      |                      |
++--------------------------+--------------------------------------+----------------------+
+| Gerste                   | 1,25 l/ha in 200 - 400 l/ha Wasser   | NT101; NW605-1: 50%  |
+| Echter Mehltau (Erysiphe | BBCH 25 - 61, ab Frühjahr bei        | 5 m, 75% 5 m, 90% *; |
+| graminis)                | Befallsbeginn bzw. bei               | NW606: 10 m; NW701:  |
+| Freiland                 | Sichtbarwerden der ersten            | 10 m                 |
+| (00-006)                 | Symptome spritzen                    | Wartezeit: F         |
+|                          | - in dieser Anwendung: 2             |                      |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
++--------------------------+--------------------------------------+----------------------+
+| Gerste                   | 1,25 l/ha in 200 bis 400 l/ha Wasser | NT101; NW605-1: 50%  |
+| Netzfleckenkrankheit     | BBCH 25 - 61, ab Frühjahr bei        | 5 m, 75% 5 m, 90% *; |
+| (Pyrenophora teres)      | Befallsbeginn bzw. bei               | NW606: 10 m; NW701:  |
+| Freiland                 | Sichtbarwerden der ersten            | 10 m                 |
+| (00-007)                 | Symptome spritzen                    | Wartezeit: F         |
+|                          | - in dieser Anwendung: 2             |                      |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
++--------------------------+--------------------------------------+----------------------+
+| Gerste                   | 1,25 l/ha in 200 bis 400 l/ha Wasser | NT101; NW605-1: 50%  |
+| Blattfleckenkrankheit    | BBCH 25 - 61, ab Frühjahr bei        | 5 m, 75% 5 m, 90% *; |
+| (Rhynchosporium          | Befallsbeginn bzw. bei               | NW606: 10 m; NW701:  |
+| secalis)                 | Sichtbarwerden der ersten            | 10 m                 |
+| Freiland                 | Symptome spritzen                    | Wartezeit: F         |
+| (00-008)                 | - in dieser Anwendung: 2             |                      |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
++--------------------------+--------------------------------------+----------------------+
+| Gerste                   | 1,25 l/ha in 200 bis 400 l/ha Wasser | NT101; NW605-1: 50%  |
++--------------------------+--------------------------------------+----------------------+
+
++--------------------------+--------------------------------------+----------------------+
+| Zwergrost (Puccinia      | BBCH 25 - 61, ab Frühjahr bei        | 5 m, 75% 5 m, 90% *; |
+| hordei)                  | Befallsbeginn bzw. bei               | NW606: 10 m; NW701:  |
+| Freiland                 | Sichtbarwerden der ersten            | 10 m                 |
+| (00-009)                 | Symptome spritzen                    | Wartezeit: F         |
+|                          | - in dieser Anwendung: 2             |                      |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
++--------------------------+--------------------------------------+----------------------+
+| Roggen                   | 1,25 l/ha in 200 - 400 l/ha Wasser   | NT101; NW605-1: 50%  |
+| Echter Mehltau (Erysiphe | BBCH 25 - 61, ab Frühjahr bei        | 5 m, 75% 5 m, 90% *; |
+| graminis)                | Befallsbeginn bzw. bei               | NW606: 10 m; NW701:  |
+| Freiland                 | Sichtbarwerden der ersten            | 10 m                 |
+| (00-010)                 | Symptome spritzen                    | Wartezeit: F         |
+|                          | - in dieser Anwendung: 2             |                      |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
++--------------------------+--------------------------------------+----------------------+
+| Roggen                   | 1,25 l/ha in 200 bis 400 l/ha Wasser | NT101; NW605-1: 50%  |
+| Blattfleckenkrankheit    | BBCH 25 - 61, ab Frühjahr bei        | 5 m, 75% 5 m, 90% *; |
+| (Rhynchosporium          | Befallsbeginn bzw. bei               | NW606: 10 m; NW701:  |
+| secalis)                 | Sichtbarwerden der ersten            | 10 m                 |
+| Freiland                 | Symptome spritzen                    | Wartezeit: F         |
+| (00-011)                 | - in dieser Anwendung: 2             |                      |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
++--------------------------+--------------------------------------+----------------------+
+| Roggen                   | 1,25 l/ha in 200 bis 400 l/ha Wasser | NT101; NW605-1: 50%  |
+| Braunrost (Puccinia      | BBCH 25 - 69, ab Frühjahr bei        | 5 m, 75% 5 m, 90% *; |
+| recondita)               | Befallsbeginn bzw. bei               | NW606: 10 m; NW701:  |
+| Freiland                 | Sichtbarwerden der ersten            | 10 m                 |
+| (00-012)                 | Symptome spritzen                    | Wartezeit: F         |
+|                          | - in dieser Anwendung: 2             |                      |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
++--------------------------+--------------------------------------+----------------------+
+| Ackerbohne               | 1 l/ha in 200 - 400 l/ha Wasser      | NT101; NW605-1: 50%  |
+| Botrytis fabae           | bei Befallsbeginn bzw. bei           | 5 m, 75% 5 m, 90% *; |
+| Freiland                 | Sichtbarwerden der ersten            | NW606: 10 m; NW701:  |
+| (00-023)                 | Symptome spritzen                    | 10 m                 |
+|                          | - in dieser Anwendung: 2             | Wartezeit: F         |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
+|                          | - Abstand zwischen den               |                      |
+|                          | Behandlungen: 21 Tage                |                      |
++--------------------------+--------------------------------------+----------------------+
+| Ackerbohne               | 1 l/ha in 200 - 400 l/ha Wasser      | NT101; NW605-1: 50%  |
+| Ackerbohnenrost          | bei Befallsbeginn bzw. bei           | 5 m, 75% 5 m, 90% *; |
+| (Uromyces viciae-fabae)  | Sichtbarwerden der ersten            | NW606: 10 m; NW701:  |
+| Freiland                 | Symptome spritzen                    | 10 m                 |
+| (00-024)                 | - in dieser Anwendung: 2             | Wartezeit: F         |
+|                          | - für die Kultur bzw. je Jahr: 2     |                      |
+|                          | - Abstand zwischen den               |                      |
++--------------------------+--------------------------------------+----------------------+
+
++--+-----------------------+--+
+|  | Behandlungen: 21 Tage |  |
++--+-----------------------+--+
+Es existieren außerdem eine Reihe von Genehmigungen nach § 18a PflSchG 
+(1998) bzw. erweiterte Zulassungen gem. Art. 51 der Verordnung (EG) Nr. 
+1107/2009. Nähere Informationen entnehmen Sie bitte unserem Internetauftritt 
+unter www.agrar.bayer.de oder fragen Sie Ihren regionalen BCSD-Berater.
+5. Anwendungstechnik
+5.1 Ausbringgerät bzw. Spritztechnik
+Lassen Sie ihr Spritzgerät regelmäßig auf einem Prüfstand testen, das Gerät auslitern 
+und den gewünschten Düsenausstoß kontrollieren. Es ist sinnvoll, eine genaue 
+Behälterskala am Spritztank anzubringen (beim Gerätehersteller erhältlich). Sorgen Sie 
+für eine regelmäßige Wartung und Kontrolle Ihres Spritzgerätes (gültige 
+Kontrollplakette!), verwenden Sie nur empfohlene Düsen, achten Sie auf Abdriftgefahr 
+und beachten Sie die Vorgaben des JKI Verzeichnisses „Verlustmindernde Geräte“! 
+Vermeiden Sie Spritzflüssigkeitsreste. Setzen Sie nur so viel Spritzflüssigkeit an, wie 
+tatsächlich benötigt wird. Es ist daher erforderlich, dass Sie die notwendige 
+Spritzflüssigkeitsmenge genau berechnen. Insbesondere bei größeren Spritzbehältern 
+bietet sich die Verwendung eines Durchflussmengenmessgerätes bei der Tankbefüllung
+an. Beim Ansetzvorgang wird die Verwendung von üblicher Schutzausrüstung 
+empfohlen.
+5.2 Ansetzvorgang bzw. Zubereitung
+Brühebehälter mindestens mit der Hälfte der erforderlichen Wassermenge füllen, 
+Produkt unter gründlichem Umrühren zugeben und fehlende Wassermenge auffüllen. 
+Bei Mischungen Ballet stets als letzten Partner in den Tank geben. Die 
+Spritzflüssigkeit ist unmittelbar nach dem Ansetzen ohne Unterbrechung 
+auszubringen.
+Nie mehr Spritzbrühe ansetzen als notwendig. Unvermeidlich anfallende Restbrühe im 
+Verhältnis 1:10 verdünnen und auf der zuvor behandelten Fläche ausbringen. Entleerte 
+Produktbehälter gründlich mit Wasser ausspülen, Spülwasser der Spritzbrühe 
+beigeben.
+Spritzgerät und -leitungen sind nach vorhergegangener Herbizid-Anwendung 
+gründlich mit Spülmittellösung bzw. mit einem von dem jeweiligen Herbizid-
+Produzenten empfohlenen Reinigungsmittel zu reinigen.
+5.3 Mischbarkeit
+Ballet kann mit den meisten Fungiziden, Insektiziden, Herbiziden und 
+Wachstumsreglern in Tankmischung ausgebracht werden.
+Zum Beispiel: Fungizide: Ascra® Xpro, Delaro® Forte, Fandango®, Input® Classic, 
+Input® Triple, Proline®, Prosaro®, Skyway® Xpro
+Wachstumsregler: CCC 720®, Cerone® 660, Fabulis®1 OD (ggf. Wachstumsregler 
+reduzieren)
+Insektizid: Decis® forte
+Blattdünger: AHL, Harnstoff, Mangansulfat, Magnesiumsulfat (Bittersalz)
+Ammonnitratharnstoff-Lösung (AHL, nur Markenware) oder Harnstoff können bis max. 
+15 kg/ha N zugemischt werden. Diese Spritzbrühen an heißen Tagen nicht in den 
+Mittagsstunden ausbringen.
+Aufgrund stark schwankender Produktqualitäten dieser N-Dünger sollte jedoch auf die 
+Zugabe weiterer Mischpartner verzichtet werden.
+Wasseraufwandmenge: mindestens 200-400 Liter/ha für Mischbrühen. 
+Mischbrühen grundsätzlich sofort nach dem Ansetzen bei laufendem Rührwerk 
+ausbringen.
+Für eventuelle negative Auswirkungen von Tankmischungen mit von uns nicht als 
+mischbar eingestuften Produkten haften wir nicht.
+5.4 Ausbringung der Spritzflüssigkeit bzw. technische Hinweise
+Beachten Sie bei der Anwendung die Grundsätze der Guten Fachlichen Praxis! 
+Vermeiden Sie Abdrift oder sonstige Einträge in Gewässer und auf benachbarte 
+Nichtzielflächen insbesondere auch auf Wohnbebauung und Gärten durch geeignete 
+Maßnahmen! 
+Lassen Sie die angesetzte Spritzflüssigkeit nicht für längere Zeit (ggf. Zeitangabe) im 
+Spritzfass stehen. Kontrollieren Sie während der Behandlung laufend den 
+Spritzflüssigkeitsverbrauch in Bezug zur behandelten Fläche. Ein Durchfluss- und 
+Dosiermessgerät bietet sich als technisches Hilfsmittel an.
+Lassen Sie das Rührwerk während der Fahrt und während der Ausbringung laufen. 
+Rühren Sie die Spritzbrühe nach Arbeitspausen erneut sorgfältig auf.
+5.5 Gerätereinigung
+Spritzgerät und -leitungen nach Gebrauch gründlich mit Wasser reinigen.
+Dazu ca. 20 % des Tankinhaltes mit Wasser auffüllen und dabei Innenflächen des 
+Tanks mit dem Wasserstrahl abspritzen. Rührwerk für ca. 2 Minuten einschalten. 
+Anschließend Reinigungsflüssigkeit bei laufendem Rührwerk durch die Düsen auf der 
+zuvor behandelten Fläche verspritzen.
+Die regelmäßige Reinigung der Pflanzenschutzspritze von außen, insbesondere des 
+Brühebehälters, Pumpenaggregates und Gestänges, sollte Bestandteil des normalen 
+betrieblichen Ablaufes sein und möglichst direkt auf dem Feld erfolgen. Hierzu werden 
+von den Geräteherstellern entsprechende Nachrüstsätze mit Wasservorratsbehältern 
+und Reinigungsbürsten angeboten.
+6. Lagerung und Entsorgung
+Lagerungsbedingungen
+Im Originalbehälter lagern. Behälter dicht geschlossen an einem trockenen, kühlen und 
+gut gelüfteten Ort aufbewahren. An einem Platz lagern, der nur berechtigten Personen 
+zugänglich ist. Vor direkter Sonneinstrahlung schützen. Vor Frost schützen. Von 
+Nahrungsmitteln, Getränken und Tiernahrung fernhalten. Von Hitze- und Zündquellen 
+fernhalten.
+Lagerungsdauer
+Ballet ist mindestens zwei Jahre haltbar, siehe Aufdruck auf der Verpackung
+Leere Verpackungen nicht weiterverwenden.
+Leere und sorgfältig gespülte Verpackungen mit der Marke PAMIRA sind an den 
+autorisierten Sammelstellen des Entsorgungssystems PAMIRA mit separiertem 
+Verschluss abzugeben.
+Informationen zu Zeitpunkt und Ort der Sammlungen erhalten Sie von Ihrem Händler, 
+aus der regionalen Presse oder im Internet unter www.pamira.de.
+Produktreste nicht in den Hausmüll geben, sondern in Originalverpackungen bei der 
+Sondermüllentsorgung Ihres Wohnortes anliefern.
+Weitere Auskünfte erhalten Sie bei Ihrer Stadt- oder Kreisverwaltung.  
+7. Weitere Informationen/Haftungsausschluss
+Zulassungsinhaber: 
+Bayer CropScience Deutschland GmbH, 
+Alfred-Nobel-Str. 50, D-40789 Monheim am Rhein
+www.agrar.bayer.de
+Haftungsausschluss
+Die Angaben entsprechen dem heutigen Stand unserer Kenntnisse und sollen über die 
+Präparate und deren Anwendungsmöglichkeiten informieren. Bei Einhaltung der 
+Gebrauchsanleitung sind die Präparate für die empfohlenen Zwecke geeignet. Wir 
+gewährleisten, dass die Zusammensetzung der Produkte in den verschlossenen 
+Originalpackungen den auf den Etiketten gemachten Angaben entspricht. Da 
+Lagerhaltung und Anwendung eines Pflanzenschutzmittels jedoch außerhalb unseres 
+Einflusses liegen, haften wir nicht für direkte oder indirekte Folgen aus unsachgemäßer 
+oder vorschriftswidriger Lagerung oder unsachgemäßer oder vorschriftswidriger 
+Anwendung der Produkte. Eine Vielzahl von Faktoren sowohl örtlicher wie auch 
+regionaler Natur, wie z.B. Witterungs- und Bodenverhältnisse, Pflanzensorten, 
+Anwendungstermin, Applikationstechnik, Resistenzen, Mischungen mit anderen 
+Produkten etc., können Einfluss auf die Wirkung des Produktes nehmen. Dies kann 
+unter ungünstigen Bedingungen zur Folge haben, dass eine Veränderung in der 
+Wirksamkeit des Produktes oder eine Schädigung an Kulturpflanzen nicht 
+ausgeschlossen werden kann. Für derartige Folgen kann der Vertreiber oder Hersteller 
+nicht haften.
+Pflanzenschutzdienste der Länder
+www.bvl.bund.de/pflanzenschutzdienst
+ e  
+Hinweis: Alle in der Gebrauchsanleitung gemachten Angaben und Informationen 
+können sich ohne Vorankündigung ändern. Bitte beachten Sie aktuelle 
+ 
+ 
+Bekanntmachungen und informieren Sie sich ggf. auf der Internetseite des 
+Zulassungsinhabers oder beim BVL (www.bvl.bund.de/psmdb).
+® ist eine registrierte Marke von Bayer
+Hersteller: Bayer AG, D-51368 Leverkusen
+Transport
+Sollte das Produkt einer gefahrgutrechtlichen Einstufung unterliegen, beachten Sie bitte
+die Kennzeichnung gem. GGVSEB/ADR auf der Verpackung und die damit 
+verbundenen Anforderungen an den Transport.
+Das Produkt darf während des Transports nicht unter/über 0/40 °C abkühlen/erhitzen.
+(Angabe bei kälte-/hitzeempfindlichen Produkten) 
+Lagerung
+LGK: 10 (Lagerklasse)
+Produkt so lagern, dass Betriebsfremde und Kinder keinen Zugang haben.
+Nicht zusammen mit Arzneimitteln, Lebensmitteln, Futtermitteln lagern.
+Beim Lagern Zündquellen vermeiden - Nicht rauchen! 
+Trocken aufbewahren und so lagern, dass Produkt nicht unter/über 0/40 °C 
+abkühlt/erhitzt.
+(Angabe bei kälte-/hitzeempfindlichen Produkten)
+Kühl und trocken aufbewahren.
+(Angabe bei allen nicht kälte-/hitzeempfindlichen Produkten.) 
+Produktaustritt
+Tritt Produkt aus, wie folgt verfahren:
+1. Produktkontakt vermeiden - Dämpfe oder Stäube nicht einatmen!
+2. Zündquellen fernhalten - nicht rauchen.
+3. Geeignete persönliche Schutzausrüstung (z.B. Schutzhandschuhe, Schutzstiefel,
+Schutzbrille) anlegen.
+4. Produkt am Fortfließen hindern und nicht wegspülen. Sofort mit saugfähigem 
+Material aufnehmen und in dichte, verschließbare Behälter füllen. 
+(Angabe für flüssige Produkte) 
+Produkte nicht wegspülen, sondern sofort z.B. mit Staubsauger aufnehmen. 
+Dabei Staubbildung vermeiden. 
+(Angabe für feste Produkte)
+5. Verschmutzte Umgebung und Gerät mit feuchtem Lappen reinigen.
+6. Reinigungsmaterial und verunreinigte Packungen ebenfalls in verschließbare 
+Behälter füllen.
+7. Bei Produktkontakt und nach Ende der Arbeit gründlich waschen.
+8. Dichte, aber vom Produkt verunreinigte Packungen aussortieren. 
+Hersteller/Vertriebsfirma benachrichtigen und Weisungen einholen.
+9. Abfälle in Absprache mit den örtlich zuständigen Stellen (z.B. Stadt- oder 
+Kreisverwaltung) umgehend sicher entsorgen.
+
++----------+----------+---------------+-----------------+
+| Art.-Nr. | Inhalt   | EAN-Code      | EAN-Code        |
+|          |          | Einzelgebinde | Verkaufseinheit |
++----------+----------+---------------+-----------------+
+| 81703132 | 4 x 5 l  | 4000680079859 | 4000680079866   |
+|          | Kanister |               |                 |
++----------+----------+---------------+-----------------+
+Bonusetikett: nein
