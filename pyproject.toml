@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "textract"
+version = "0.1.0"
+description = ""
+authors = ["KhadijaMahanga <khadijamahanga@y7mail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+loguru = "^0.7.2"
+pdfminer-six = "^20231228"
+pdfplumber = "^0.11.0"
+pymupdf = "^1.24.1"
+tabulate = "^0.9.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+extract = "textract.main:run"
