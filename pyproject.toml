@@ -4,6 +4,8 @@ version = "0.1.0"
 description = ""
 authors = ["KhadijaMahanga <khadijamahanga@y7mail.com>"]
 readme = "README.md"
+packages = [{include = "tablextract"}]
+
 
 [tool.poetry.dependencies]
 python = "^3.8"
@@ -12,6 +14,9 @@ pdfminer-six = "^20231228"
 pdfplumber = "^0.11.0"
 pymupdf = "^1.24.1"
 tabulate = "^0.9.0"
+tabula-py = "^2.9.0"
+paddlepaddle = "^2.6.1"
+paddleocr = ">=2.6.0.3"
 
 
 [build-system]
@@ -20,3 +25,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 extract = "textract.main:run"
+extract-table = "tablextract.main:run"
